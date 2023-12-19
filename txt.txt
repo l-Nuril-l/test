@@ -1,7 +1,7 @@
 {
 	"PlayersMoney" : {
 		"__type" : "int",
-		"value" : 61204
+		"value" : 60616
 	},
 	"HeadMountedCameraInventory" : {
 		"__type" : "int",
@@ -93,7 +93,7 @@
 	},
 	"GhostType" : {
 		"__type" : "string",
-		"value" : "Джинн"
+		"value" : "Ёкай"
 	},
 	"daily0" : {
 		"__type" : "int",
@@ -169,7 +169,7 @@
 	},
 	"daily3Progression" : {
 		"__type" : "int",
-		"value" : 1
+		"value" : 2
 	},
 	"daily3Completed" : {
 		"__type" : "int",
@@ -213,7 +213,7 @@
 	},
 	"weekly1Progression" : {
 		"__type" : "int",
-		"value" : 0
+		"value" : 587
 	},
 	"weekly1Completed" : {
 		"__type" : "int",
@@ -1068,11 +1068,11 @@
 	},
 	"distanceTravelled" : {
 		"__type" : "float",
-		"value" : 94284
+		"value" : 94589.23
 	},
 	"sanityLost" : {
 		"__type" : "float",
-		"value" : 10596.4043
+		"value" : 10598.585
 	},
 	"sanityGained" : {
 		"__type" : "float",
@@ -1084,47 +1084,47 @@
 	},
 	"timeSpentInvestigating" : {
 		"__type" : "float",
-		"value" : 100755.461
+		"value" : 100966.438
 	},
 	"timeSpentInDark" : {
 		"__type" : "float",
-		"value" : 55298.4766
+		"value" : 55346.9258
 	},
 	"timeSpentInLight" : {
 		"__type" : "float",
-		"value" : 32907.0078
+		"value" : 33052.2734
 	},
 	"timeSpentInTruck" : {
 		"__type" : "float",
-		"value" : 18362.5742
+		"value" : 18366.957
 	},
 	"timeSpentInGhostsRoom" : {
 		"__type" : "float",
-		"value" : 22424.5781
+		"value" : 22437.8945
 	},
 	"timeSpentBeingChased" : {
 		"__type" : "float",
-		"value" : 1292.97327
+		"value" : 1293.12329
 	},
 	"diedAmount" : {
 		"__type" : "int",
-		"value" : 72
+		"value" : 73
 	},
 	"moneyEarned" : {
 		"__type" : "int",
-		"value" : 71388
+		"value" : 71975
 	},
 	"moneySpent" : {
 		"__type" : "int",
-		"value" : 210375
+		"value" : 211550
 	},
 	"itemsBought" : {
 		"__type" : "int",
-		"value" : 968
+		"value" : 1005
 	},
 	"itemsLost" : {
 		"__type" : "int",
-		"value" : 797
+		"value" : 834
 	},
 	"ghostsIdentifiedAmount" : {
 		"__type" : "int",
@@ -1132,7 +1132,7 @@
 	},
 	"ghostsMisidentifiedAmount" : {
 		"__type" : "int",
-		"value" : 77
+		"value" : 78
 	},
 	"objectivesCompleted" : {
 		"__type" : "int",
@@ -1160,38 +1160,38 @@
 	},
 	"playedMaps" : {
 		"__type" : "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
-		"value" : {11:75,5:11,12:9,2:2,9:9,3:26,4:2,1:2,0:5,10:1,7:2
+		"value" : {11:76,5:11,12:9,2:2,9:9,3:26,4:2,1:2,0:5,10:1,7:2
 	}
 	},
 	"ghostKills" : {
 		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
-		"value" : {"Banshee":2,"Obake":3,"Revenant":5,"Goryo":3,"TheTwins":6,"Moroi":2,"Mimic":4,"Shade":4,"Mare":4,"Poltergeist":4,"Oni":5,"Hantu":2,"Myling":2,"Onryo":0,"Phantom":2,"Yurei":7,"Spirit":3,"Thaye":4,"Jinn":0,"Demon":6,"Wraith":0,"Yokai":1,"Raiju":2,"Deogen":1
+		"value" : {"Banshee":2,"Obake":3,"Revenant":5,"Goryo":3,"TheTwins":6,"Moroi":2,"Mimic":4,"Shade":4,"Mare":4,"Poltergeist":4,"Oni":5,"Hantu":2,"Myling":2,"Onryo":0,"Phantom":2,"Yurei":7,"Spirit":3,"Thaye":4,"Jinn":0,"Demon":6,"Wraith":0,"Yokai":2,"Raiju":2,"Deogen":1
 	}
 	},
 	"mostCommonGhosts" : {
 		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
-		"value" : {"Banshee":3,"Obake":9,"Revenant":7,"Goryo":5,"TheTwins":11,"Moroi":9,"Mimic":8,"Shade":7,"Mare":7,"Poltergeist":10,"Oni":7,"Hantu":5,"Myling":3,"Onryo":3,"Phantom":6,"Yurei":8,"Spirit":6,"Thaye":7,"Jinn":5,"Demon":7,"Wraith":1,"Yokai":6,"Raiju":3,"Deogen":1
+		"value" : {"Banshee":3,"Obake":9,"Revenant":7,"Goryo":5,"TheTwins":11,"Moroi":9,"Mimic":8,"Shade":7,"Mare":7,"Poltergeist":10,"Oni":7,"Hantu":5,"Myling":3,"Onryo":3,"Phantom":6,"Yurei":8,"Spirit":6,"Thaye":7,"Jinn":5,"Demon":7,"Wraith":1,"Yokai":7,"Raiju":3,"Deogen":1
 	}
 	},
 	"ghostDistanceTravelled" : {
 		"__type" : "float",
-		"value" : 53870.293
+		"value" : 53960.9844
 	},
 	"amountOfGhostInteractions" : {
 		"__type" : "int",
-		"value" : 13443
+		"value" : 13447
 	},
 	"doorsMoved" : {
 		"__type" : "int",
-		"value" : 3113
+		"value" : 3114
 	},
 	"objectsUsed" : {
 		"__type" : "int",
-		"value" : 659
+		"value" : 661
 	},
 	"lightsSwitched" : {
 		"__type" : "int",
-		"value" : 83
+		"value" : 84
 	},
 	"fuseboxToggles" : {
 		"__type" : "int",
@@ -1211,15 +1211,15 @@
 	},
 	"timeInFavouriteRoom" : {
 		"__type" : "float",
-		"value" : 70632.01
+		"value" : 70833.5
 	},
 	"amountOfGhostHunts" : {
 		"__type" : "int",
-		"value" : 490
+		"value" : 491
 	},
 	"totalHuntTime" : {
 		"__type" : "float",
-		"value" : 13734.3535
+		"value" : 13736.2031
 	},
 	"ACH_COMPLETE_FIFTY_OPTIONAL_OBJECTIVES" : {
 		"__type" : "int",
@@ -1803,6 +1803,10 @@
 		"value" : 1
 	},
 	"Grafton FarmhouseHoliday23Complete" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"6 Tanglewood DriveHoliday23Complete" : {
 		"__type" : "int",
 		"value" : 1
 	}
